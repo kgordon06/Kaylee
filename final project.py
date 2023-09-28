@@ -1,6 +1,6 @@
 from getpass import getpass # allows the user to input password without it being visible
 
-player1=0
+player1=0 # initializes the player input for the ui
 player2=0 # initializes the player input for the ui
 player3=0 # initializes the player input for the ui
 
